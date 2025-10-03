@@ -1,0 +1,7 @@
+string_a = input('a:')
+int_a = int(string_a)
+print()
+string_b = input('b:')
+int_b = int(string_b)
+print('문자형자료',string_a + string_b)
+print('정수형자료',int_a + int_b)
